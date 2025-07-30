@@ -1,5 +1,5 @@
 ### PLEASE READ #######
-# Hi! This program was created by Elton Dias for educational and experiamental purposes only. Use with caution. DO NOT USE AS GAMBLING ADVICE!!!
+# Hi! This program was created by Elton Dias for educational and experimental purposes only. Use with caution. DO NOT USE AS GAMBLING ADVICE!!!
 # 
 # The program creates a file that the results will be saved to. Click load a file a select the text file only if you have ran a previous prediction before. The more previous data there is, 
 # the more accurate your prediction will become. Accurate stat input is crucial to the prediction as any misentered data will greatly effect your accuracy.
